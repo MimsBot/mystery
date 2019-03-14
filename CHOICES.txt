@@ -1,6 +1,6 @@
-CHOICES
+CHOICES - first_run_through
 
-First Choice: ____
+First Choice: yelled at mom
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
