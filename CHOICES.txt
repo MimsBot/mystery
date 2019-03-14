@@ -5,3 +5,8 @@ Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
+
+
+Something happened to my text file, but I ended up making ten decisions and
+finally calling out Helga, only to find out that the whole thing was a trick
+question. Was a super fun excercise though, thanks to whoever wrote it!
